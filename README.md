@@ -55,8 +55,6 @@ Arduino-powered plant care system with environmental monitoring and automated wa
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Nityam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nityzt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nityzt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
