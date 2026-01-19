@@ -39,7 +39,7 @@ I'm a **Computer Engineering student** and **Full-Stack Developer** passionate a
 A production-ready notes application with CRUD functionality, Redis-based rate limiting, and real-time notifications.
 - **Tech**: MongoDB, Express.js, React, Node.js, Redis, TailwindCSS
 
-### 🕐 [Virtual Queue Management System](https://github.com/Nityzt/virtual_advising_queu0-=)
+### 🕐 [Virtual Queue Management System](https://github.com/Nityzt/virtual_advising_queue)
 Full-stack queue management solution with real-time updates and admin dashboard.
 - **Tech**: MERN Stack, Socket.IO, Vercel, MongoDB Atlas
 - **Features**: Multi-queue system, wait time estimation, admin controls
