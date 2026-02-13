@@ -24,8 +24,7 @@ Production notes app with Redis-based rate limiting, CRUD operations, and real-t
 
 ## Stats
 
-![Stats](./profile/stats.svg)
-
+[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nityzt)](https://github.com/nityzt)
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nityzt)
