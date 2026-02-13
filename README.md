@@ -1,6 +1,6 @@
 ## Welcome :)
 
-**SWE** | Comp Eng @ YU
+SWE | Comp Eng @ YU
 
 I build production-ready full-stack applications with a focus on performance, real-time features, and polished UX. Currently shipping workflow automation and RESTful APIs
 
@@ -19,12 +19,6 @@ Full-stack configurator with React, TypeScript, Flask & MongoDB featuring 60fps 
 ### [Virtual Queue Management System](https://github.com/Nityzt/virtual_advising_queue)
 Real-time queue system built with MERN stack and Socket.IO. Deployed on Vercel with multi-queue support and admin dashboard.
 
-### [MERN Notes App](https://github.com/Nityzt/mern-notes-app)
-Production notes app with Redis-based rate limiting, CRUD operations, and real-time notifications. Built with Express.js and DaisyUI.
-
-## Stats
-
-[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nityzt)](https://github.com/nityzt)
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nityzt)
