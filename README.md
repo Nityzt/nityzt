@@ -2,7 +2,7 @@
 
 SWE | Comp Eng @ YU
 
-I build production-ready full-stack applications with a focus on performance, real-time features, and polished UX. Currently shipping workflow automation and RESTful APIs
+I build production-ready full-stack applications with a focus on performance, real-time features, and polished UX.
 
 ## Tech Stack
 
@@ -12,6 +12,9 @@ I build production-ready full-stack applications with a focus on performance, re
 **Tools:** Git, Docker, Vercel, Render, MongoDB Atlas
 
 ## Recent Projects
+
+### [Unburnt - AI Sous Chef and Assistant](https://github.com/Nityzt/Unburnt)
+Cooking Assistant with live mistake detection, recipe generation, speech to speech and Google OAuth. Powered by Amazon Nova and AWS.
 
 ### [Retail Demo Scenario Configurator](https://github.com/Nityzt/retail-configurator)
 Full-stack configurator with React, TypeScript, Flask & MongoDB featuring 60fps animations, optimistic UI updates, and real-time preview.
