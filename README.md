@@ -12,7 +12,7 @@ funny extension built at hackathon
 ### [YU Kendo Club Website](https://www.yukendo.ca/)
 landing page for my uni club
 ### [Retail Demo Scenario Configurator](https://github.com/Nityzt/retail-configurator)
-demo project for home depot
+quick demo project for non-tech retail businesses
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nityzt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nityum@my.yorku.ca)
