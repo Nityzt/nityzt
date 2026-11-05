@@ -4,7 +4,9 @@ Building software focused on performance, convenience and intentional design
 - [Larpdin](https://github.com/GilGil0210/larpdIn) 
 funny extension built for hackathon
 - [YU Kendo Club Website](https://www.yukendo.ca/)
-landing page for university club
+landing page for university club (actively building & maintaining)
+- [TalentBay ATS](https://github.com/Nityzt/Event-Driven-ATS)
+ATS + event-driven workflow automation
 - [Retail Demo Scenario Configurator](https://github.com/Nityzt/retail-configurator)
 quick demo project for non-technical folks in retail businesses
 
