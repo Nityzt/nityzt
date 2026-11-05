@@ -1,5 +1,5 @@
-#### Current
-Building software focused on performance, convenience and intentional design
+#### Currently
+building software focused on performance, convenience and intentional design
 #### Recent Projects
 - [Larpdin](https://github.com/GilGil0210/larpdIn) 
 troll extension built for hackathon
