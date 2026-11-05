@@ -2,7 +2,7 @@
 Building software focused on performance, convenience and intentional design
 #### Recent Projects
 - [Larpdin](https://github.com/GilGil0210/larpdIn) 
-funny extension built for hackathon
+troll extension built for hackathon
 - [YU Kendo Club Website](https://www.yukendo.ca/)
 landing page for university club (actively building & maintaining)
 - [TalentBay](https://github.com/Nityzt/Event-Driven-ATS)
