@@ -1,6 +1,8 @@
 #### Currently
 building software focused on performance, convenience and intentional design
 #### Recent Projects
+- [Tiny Kendo](https://github.com/Nityzt/mini-ken)
+cute 8-bit game with online multiplayer and story mode
 - [Larpdin](https://github.com/GilGil0210/larpdIn) 
 funny extension built for hackathon
 - [YU Kendo Club Website](https://www.yukendo.ca/)
