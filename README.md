@@ -6,11 +6,9 @@ cute 8-bit game with online multiplayer and story mode
 - [Larpdin](https://github.com/GilGil0210/larpdIn) 
 funny extension built for hackathon
 - [YU Kendo Club Website](https://www.yukendo.ca/)
-landing page for university club (actively building & maintaining)
+landing page for university club 
 - [TalentBay](https://github.com/Nityzt/Event-Driven-ATS)
 ATS + event-driven workflow automation
-- [Retail Demo Scenario Configurator](https://github.com/Nityzt/retail-configurator)
-quick demo project for non-technical folks in retail businesses
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nityzt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nitvfx@gmail.com)
